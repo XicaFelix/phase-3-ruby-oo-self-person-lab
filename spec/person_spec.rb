@@ -1,3 +1,4 @@
+
 RSpec.describe 'Person' do
   let(:stella) { Person.new('Stella') }
   let(:blanche) { Person.new('Blanche') }
